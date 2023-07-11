@@ -1,4 +1,4 @@
-Implementation of Artificial Intelligence in Fault Detection, Diagnosis and Classification in a 3-Phase Transmission. 
+#Implementation of Artificial Intelligence in Fault Detection, Diagnosis and Classification in a 3-Phase Transmission. 
 For any electrical power system one of the components that has really suffered a lot is the transmission line. 
 A fault in the transmission line can result to massive loses which are always economical loses. 
 A fault in the transmission line occurs because of two or more conductors are in contact with each other or ground. 
